@@ -7,19 +7,23 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Courses ###
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity** :dollar:
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
-* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
-* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
+* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **edX**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
+* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
+* [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
-* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
 
 
 ### Books ###
@@ -33,11 +37,10 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
-* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275)
+* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
-
 
 
 ### Software and Libraries ###
@@ -86,6 +89,8 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
+[**Open AI's Roboschool**](https://github.com/openai/roboschool)
+Open-source software for robot simulation, integrated with OpenAI Gym.
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
@@ -130,6 +135,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
 * [European Robotics Challenges](http://www.euroc-project.eu/)
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
+* [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 * [RoboMasters](http://www.robomasters.com/en/)
@@ -161,8 +167,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
-* [Robotics slack group](https://robotics-and-ai.slack.com/shared_invite/MzA1ODYzMDc2MTctMTQ1OTM0NDU5MS00MDgxYTY1ZDAy)
-
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
@@ -171,3 +175,5 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
